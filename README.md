@@ -24,7 +24,7 @@ AI_Agents/
 - **ai_agent_langraph.ipynb**: Jupyter notebook for experimenting with AI agents using LangGraph and Langchain.
 - **langraph_w_mcp.py**: Script integrating LangGraph with the MCP protocol for tool usage.
 
-    **Run from the command line:**
+    Run from the command line:
     ```sh
     python src/langraph_w_mcp.py
     ```
