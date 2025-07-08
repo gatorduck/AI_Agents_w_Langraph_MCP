@@ -2,3 +2,4 @@
 # ignore artifact folder holding chicken scratch
 artifacts/
 venv/
+.vscode/
