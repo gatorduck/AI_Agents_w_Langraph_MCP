@@ -8,7 +8,6 @@ Creating an AI agent using Langchain and Langraph.
 AI_Agents/
 │   README.md
 │   requirements.txt
-│   AI_Agents.code-workspace
 │
 ├── src/
 │   ├── ai_agent_langraph.ipynb
