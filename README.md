@@ -7,6 +7,7 @@ Creating an AI agent using Langchain and Langraph.
 ```
 AI_Agents/
 │   README.md
+│   requirements.txt
 │   AI_Agents.code-workspace
 │
 ├── src/
@@ -19,7 +20,27 @@ AI_Agents/
 └── ...
 ```
 
-### Summary of files in `src/`
+
+
+## Setup Instructions
+
+### 1. Create a Python virtual environment
+
+On Windows:
+```sh
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 2. Install required packages from a requirements file
+
+```sh
+pip install -r requirements.txt
+```
+
+---
+
+## Summary of files in `src/`
 
 - **ai_agent_langraph.ipynb**: Jupyter notebook for experimenting with AI agents using LangGraph and Langchain.
 - **langraph_w_mcp.py**: Script integrating LangGraph with the MCP protocol for tool usage.
