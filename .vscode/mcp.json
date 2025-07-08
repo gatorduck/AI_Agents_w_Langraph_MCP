@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "math_server": {
+            "type": "stdio",
+            "command": "python",
+            "args": ["src/mcp/math_server.py"]
+        }
+    }
+}
